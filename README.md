@@ -1,5 +1,4 @@
 # Learning with Selective Forgetting (IJCAI21)
-This is the official PyTorch impelementation of our paper "Learning with Selective Forgetting" (IJCAI21).
 
 This is the official PyTorch impelementation of our paper  "[Learning with Selective Forgetting (IJCAI2021)](https://www.ijcai.org/proceedings/2021/0137.pdf)" 
 
