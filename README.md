@@ -17,7 +17,7 @@ This is an official PyTorch impelementation of our paper  "[Learning with Select
 ## Citation
 If you use this toolbox or benchmark in your research, please cite this project.
 
-```
+```BibTeX
 @inproceedings{shibata2021learning,
   title={Learning with Selective Forgetting.},
   author={Shibata, Takashi and Irie, Go and Ikami, Daiki and Mitsuzumi, Yu},
