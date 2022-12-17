@@ -1,6 +1,8 @@
 # Learning with Selective Forgetting (IJCAI21)
 This is the official PyTorch impelementation of our paper "Learning with Selective Forgetting" (IJCAI21).
 
+![cover](imgs/cover.png )
+
 ## Generate dataset and mnemonic code (CIFAR100 with Task2, Task5, Task10)
 `sh ./gen_datasets.sh`
 
